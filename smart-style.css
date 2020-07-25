@@ -1,0 +1,181 @@
+.btn-smart{
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 20px !important;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 4px 2px;
+  cursor: pointer;
+  outline: none;
+}
+
+.smart-more:after{
+content: "\2026";
+}
+.smart-right-arrow:after{
+content: "\203A";
+}
+.smart-left-arrow:after{
+content: "\2039";
+}
+.smart-quote-arrow-right:after{
+ content: "\00bb";
+}
+.smart-quote-arrow-left:after{
+ content: "\00ab";
+}
+.smart-tick:after{
+ content: "\2713";
+}
+.smart-equal:after{
+ content: "\003d";
+}
+.smart-question:after{
+ content: "\003f";
+}
+.smart-plus:after{
+ content: "\002b";
+}
+.smart-wrong:after{
+content: "\2717";
+}
+.smart-phone:after{
+content: "\260F";
+}
+.smart-forbidden:after{
+content: "\04E8";
+}
+.smart-dollar:after{
+content: "\0024";
+}
+
+.smart-blue{
+  background-color: #2E76CF;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-blue:hover{
+  background-color: #173b67;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-aqua{
+  background-color: #23B5AF;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-aqua:hover{
+  background-color: #218C8D;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-red{
+  background-color: #cf2e2e;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-red:hover{
+  background-color: #902020;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-green{
+  background-color: #008000;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-green:hover{
+  background-color: #006400;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-purple{
+  background-color: #993CF3;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-purple:hover{
+  background-color: #7a30c2;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-yellow{
+  background-color: #FDD017;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-yellow:hover{
+  background-color: #caa612;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-black{
+  background-color: #141414;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-black:hover{
+  background-color: #2c2c2c;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-grey{
+  background-color: #999999;
+  width: 5%;
+  transition: background-color 3s, width   2s;
+  -webkit-transition: background-color 3s, width   2s;
+  -moz-transition: background-color 3s, width   2s;
+  -o-transition: background-color 3s, width   2s;
+}
+
+.smart-grey:hover{
+  background-color: #6b6b6b;
+  width: 7%;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.smart-default{
+width: 10%;
+}
+.smart-default:hover{
+width: 12% !important;
+}
